@@ -10,6 +10,6 @@ public class HelloController {
 
     @GetMapping
     public String hello() {
-        return "Hello TechPrimers";
+        return "Hello this demo is for deploying java application to aws elastic bean stalk";
     }
 }
